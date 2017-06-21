@@ -5,3 +5,4 @@
 - 使用WampServer架設及phpMyAdmin
 - my_api主要模擬為APIServer端
 - My1410532006為模擬成Client端
+- 使用Guzzle Plugin來實現藉由PHP來達成HTTP請求
