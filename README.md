@@ -1,6 +1,6 @@
 # Laravel-API
 - **Laravel API 練習留言板** 
-- 目前為半完成品，一完成會立即更新
+- 目前為**半完成品**，一完成會立即更新
 - 這是在大一期間學習到的練習品
 - 以Laravel的框架使用API的方式，並利用前後端溝通，顯示網頁所需資料
 - 使用WampServer架設及phpMyAdmin
